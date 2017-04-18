@@ -9,5 +9,6 @@ public interface AppConstant {
 	
 	String ADD_DISCOUNT = "/addDiscount";
 	String LIST_DISCOUNT = "/listDiscount";
+	String LIST_DISCOUNT1 = "/listDiscount1";
 
 }
